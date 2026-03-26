@@ -2,10 +2,8 @@
 
 I'm Fábián Balázs, a Computer Science student based in Hungary.
 
-I design and build whatever I can imagine.
-
-If an idea pops into my head, chances are I'll build it and ship it.
+I design and build whatever I can imagine. If an idea pops into my head, chances are I'll build it and ship it. 
 
 My main tech stack is **Python, Html, CSS, JavaScript, MySql, C++**. My favorite tools are **VS Code & Figma**.
 
-I've got a bunch of pinned projects, but my favorite is the Vinted Plus(https://github.com/fabianbalazs/vintedplus).
+I've got a bunch of pinned projects, but my favorite is the [Vinted Plus](https://github.com/fabianbalazs/vintedplus).
