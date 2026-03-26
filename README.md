@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Fábián Balázs, a Computer Science student based in Hungary.
+I'm Balázs Fábián, a Computer Science student based in Hungary.
 
 I design and build whatever I can imagine. If an idea pops into my head, chances are I'll build it and ship it. 
 
