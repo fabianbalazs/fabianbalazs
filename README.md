@@ -2,7 +2,7 @@
 
 I'm Balázs Fábián, a Computer Science student based in Hungary.
 
-I design and build whatever I my mind can imagine. If an idea pops into my head, chances are I'll build it and ship it. 
+I design and build whatever I my mind can possibly imagine. If an idea pops into my head, chances are I'll build it and ship it. 
 
 My main tech stack is **Python, Html, CSS, JavaScript, MySql, C++**. My favorite tools are **VS Code & Figma**.
 
