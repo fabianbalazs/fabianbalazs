@@ -6,4 +6,4 @@ I design and build whatever I could imagine. If an idea pops into my head, chanc
 
 My main tech stack is **Python, Html, CSS, JavaScript, MySql, C++**. My favorite tools are **VS Code & Figma**.
 
-I've got a bunch of pinned projects, but my favorite is the [Vinted Plus](https://github.com/fabianbalazs/vintedplus).
+I've got a bunch of pinned projects, my favorite is the [Vinted Plus](https://github.com/fabianbalazs/vintedplus).
