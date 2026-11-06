@@ -28,5 +28,5 @@ barber appointments and connecting clients with professionals.
 <p align="center">
   <a href="https://github.com/fabianbalazs/vintedplus"><img src="./assets/vinted-plus.png" width="32%" alt="Vinted Plus — tools for managing your Vinted wardrobe. Built with JavaScript." /></a>
   <a href="https://github.com/fabianbalazs/chrissorswebpage"><img src="./assets/chrissors.png" width="32%" alt="Chrissors — a barber appointment booking app. Built with JavaScript and Firebase." /></a>
-  <img src="./assets/mindentmegoldunk.png" width="32%" alt="Mindentmegoldunk — connecting clients with professionals. Built with C# and .NET." />
+    <a href="https://www.mindentmegoldunk.hu"><img src="./assets/mindentmegoldunk.png" width="32%" alt="Mindentmegoldunk — connecting clients with professionals. Built with C# and .NET." /></a>
 </p>
